@@ -23,7 +23,6 @@ namespace MyNotepad
             public string Filename { get; set; }
         }
 
-        // Constructor
         public MainPage()
         {
             InitializeComponent();
