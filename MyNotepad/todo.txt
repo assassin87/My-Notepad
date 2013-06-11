@@ -1,0 +1,7 @@
+Att göra:
+
+- När man lämnar EditorPage, om man har gjort ändringar i texten, fråga om man verkligen vill lämna utan att spara ändringarna. Hint: NavigatingFrom
+
+- Man ska kunna "pinna" sina notes till telefonens startskärm. Hints: ContextMenu, ShellTile, http://www.developer.nokia.com/Community/Wiki/Working_with_Live_Tiles_in_Windows_Phone_7
+
+ 
